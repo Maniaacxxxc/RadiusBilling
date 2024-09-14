@@ -1,5 +1,4 @@
-Minimalis billing dashboard pelanggan Arneta.ID
-
+Minimalis billing dashboard pelanggan
 Apa yang harus di lakukan :
 
 1. Masuk ke database radius lalu import radiusbilling.sql
